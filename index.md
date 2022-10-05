@@ -2,6 +2,6 @@
 
 I am a 2nd year Revelle student, and I major in biology with a specialization in bioinformatics.
 
-[Week 0 Lab Report](https://ianfmcn.github.io/cse15l-lab-reports/Week0Lab/lab-report-1-week-0.html)
+[Week 0 Lab Report](Week0Lab/lab-report-1-week-0.md)
 
-[Week 1 Lab report](https://ianfmcn.github.io/cse15l-lab-reports/Week1Lab/lab-report-2-week-1.html)
+[Week 1 Lab report](Week1Lab/lab-report-2-week-1.md)
