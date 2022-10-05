@@ -18,7 +18,7 @@ To do so, I used the ssh command, and entered my password.
  
 
 
-Part 5: Run Some Commands*
+*Part 5: Run Some Commands*
 
 First I ran the pwd command to check my current directory, and I did the same after using the different cd commands to see if my directory would change.
 
