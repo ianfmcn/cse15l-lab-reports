@@ -10,9 +10,11 @@ I already had vscode installed on my computer, hence the CSE15-LAB-REPORTS folde
 
 *Part 4: Remotely Connecting*
 
+![Image](Picture8.png)
+![Image](Picture9.png)
 After changing my password a second time, I was finally able to log into the server account.
 
-To do so, I used the ssh command, and entered my password.
+To do so, I used the `ssh` command, and entered my password.
  
 ![Image](Picture2.png)
  
@@ -20,13 +22,13 @@ To do so, I used the ssh command, and entered my password.
 
 *Part 5: Run Some Commands*
 
-First I ran the pwd command to check my current directory, and I did the same after using the different cd commands to see if my directory would change.
+First I ran the `pwd` command to check my current directory, and I did the same after using the different `cd` commands to see if my directory would change.
 
-Then I used the ls command, as well as the ls -l, ls -a, and ls -lat commands. With each added letter, more files were shown.
+Then I used the `ls` command, as well as the `ls -l`, `ls -a`, and `ls -lat` commands. With each added letter, more files were shown.
 
-Then I tried to access another classmate's directory with ls, but access was denied.
+Then I tried to access another classmate's directory with `ls`, but access was denied.
 
-Finally, I used the cp function to copy a file from a public directory and the cat function to print its contents.
+Finally, I used the `cp` command to copy a file from a public directory and the `cat` command to print its contents.
 
 ![Image](Picture3.png)
  
@@ -34,7 +36,7 @@ Finally, I used the cp function to copy a file from a public directory and the c
 
 *Part 6: Moving Files Over*
 
-First, I copied the WhereAmI code into a file, then compiled and ran it on my own computer, then I used the scp command to copy it into my server account.
+First, I copied the WhereAmI code into a file, then compiled and ran it on my own computer, then I used the `scp` command to copy it into my server account.
 
 Then, I logged into my server account and compiled and ran the file.
 
@@ -50,9 +52,9 @@ First, I created a key on my computer. I had to overwrite an existing one becaus
  
 ![Image](Picture5.png)
 
-Next, I made a directory in my server account, and used the scp command to share key information from my computer to the server account.
+Next, I made a directory in my server account, and used the `scp` command to share key information from my computer to the server account.
 
-After successfully doing so, I was able to access the server using the ssh command without entering my password.
+After successfully doing so, I was able to access the server using the `ssh` command without entering my password.
  
 ![Image](Picture6.png)
 
