@@ -12,6 +12,7 @@ I already had vscode installed on my computer, hence the CSE15-LAB-REPORTS folde
 
 ![Image](Picture8.png)
 ![Image](Picture9.png)
+
 After changing my password a second time, I was finally able to log into the server account.
 
 To do so, I used the `ssh` command, and entered my password.
