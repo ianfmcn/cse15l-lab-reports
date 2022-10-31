@@ -27,7 +27,7 @@ The files with test in their names are present.<br/>
 Files after using delete:<br/>
 The files with test were deleted and are now gone.<br/>
 ![image](delete.png)<br/>
-![image](postdelete.png)![image](delete.png)<br/>
+![image](postdelete.png)<br/>
 
 **Grep**<br/>
 *Bracket Arguments*<br/>
