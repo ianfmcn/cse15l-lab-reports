@@ -3,7 +3,7 @@
 
 **Find** <br/>
 *`-iname`* <br/>
-Using `-iname` instead of `-name` allows us to make a case insensitive searches for files, which is useful when you have files with different cases but similar characters otherwise.<br/>
+Using `-iname` instead of `-name` allows us to make case insensitive searches for files, which is useful when you have files with different cases but similar characters otherwise.<br/>
 
 ![image](inamefiles.png)<br/>
 ![image](name.png)<br/> 
