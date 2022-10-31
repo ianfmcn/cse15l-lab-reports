@@ -6,7 +6,7 @@
 Using `-iname` instead of `-name` allows us to make a case insensitive search for files, which is useful when you have files with different cases but similar characters otherwise.<br/>
 
 ![image](inamefiles.png)<br/>
-![image](name.png)<br/>
+![image](name.png)<br/> 
 With `-name`, only test.txt is returned, but with `-iname`, all files with test are returned.<br/>
 ![image](iname.png)<br/>
 
