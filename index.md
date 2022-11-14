@@ -9,3 +9,5 @@ I am a 2nd year Revelle student, and I major in biology with a specialization in
 [Week 3 Lab Report](Week3Lab/lab-report-3-week-3.md)
 
 [Week 5 Lab Report](Week5Lab/lab-report-4-week-5.md)
+
+[Week 7 Lab Report](Week7Lab/lab-report-5-week-7.md)
